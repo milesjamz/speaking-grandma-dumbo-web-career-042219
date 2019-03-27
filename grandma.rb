@@ -13,7 +13,7 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 def speak_to_grandma(hello)
   if hello == "I LOVE YOU GRANDMA!"
-    return "I LOVE YOU TOO PUMPKIN"
+    return "I LOVE YOU TOO PUMPKIN!"
   elsif hello == hello.upcase
     return "NO, NOT SINCE 1938!"
   else return "HUH?! SPEAK UP, SONNY!"
